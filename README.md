@@ -24,7 +24,7 @@ This dashboard provides insights into credit score analysis,trend and distributi
 ![Loan Analysis](loan_analysis.png)
 
 This dashboard shows that high risk segment results in highest default rates,low credit score results in higher defaults whereas medium risk segment has the highest exposure.
-![Risk Segementation](Risk & Segmentation.png)
+![Risk Segementation](Risk_Segmentation.png)
 
 ## Learnings
 - Risk segmentation techniques
