@@ -62,7 +62,7 @@ Developed an interactive dashboard to visualize:
 - Income-based loss distribution
 - Loan status breakdown
 
-![Risk Modelling](./Credit Risk Modelling/Risk_Modelling.png)
+![Risk Modelling](https://github.com/Kaustabh-Shaw/Credit-Risk-Projects/blob/main/Credit%20Risk%20Modelling/Risk_Modelling.png)
 
 ## Future Improvements
 
