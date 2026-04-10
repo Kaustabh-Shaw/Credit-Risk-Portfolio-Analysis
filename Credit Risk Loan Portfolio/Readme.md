@@ -8,6 +8,16 @@ This project analyzes loan portfolio risk using credit score segmentation, defau
 - SQL
 - Excel
 
+## Project Structure
+
+credit-risk-loan-portfolio/
+│
+├── sql/
+├── excel/
+├── powerbi/
+├── images/
+└── README.md
+
 ## Key Insights
 - Higher default rates in low credit score bands
 - Concentration risk identified in specific segments
@@ -28,4 +38,5 @@ This dashboard shows that
 - low credit score results in higher defaults.
 - medium risk segment has the highest exposure.
 ![Risk Segementation](Risk_Segmentation.png)
+
 
