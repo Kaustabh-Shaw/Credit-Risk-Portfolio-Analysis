@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project focuses on building a Credit Risk Modelling framework to quantify potential losses in a loan portfolio using key risk parameters:
+
 - Probability of Default (PD)
 - Loss Given Default (LGD)
 - Exposure at Default (EAD)
@@ -30,10 +31,10 @@ The core formula used:
 
 Expected Loss (EL) = PD × LGD × EAD
 
-PD (Probability of Default): 0.17
-LGD (Loss Given Default): 0.50
-EAD (Exposure at Default): 446M
-EL (Expected Loss): 37.96M
+- PD (Probability of Default): 0.17
+- LGD (Loss Given Default): 0.50
+- EAD (Exposure at Default): 446M
+- EL (Expected Loss): 37.96M
 
 
 3. Dashboard Development (Power BI)
@@ -51,18 +52,6 @@ Excel = Data cleaning & preparation
 SQL = Data extraction and transformation
 Power BI = Dashboard & visualization
 
----
-
-## Project Structure
-
-
-credit-risk-modelling/
-│
-├── sql/
-├── excel/
-├── powerbi/
-├── images/
-└── README.md
 
 ## Dashboard Features
 
