@@ -1,35 +1,54 @@
-# Credit Risk Portfolio Analysis
+# Credit Risk Projects Portfolio
 
-## Project Overview
-This project analyzes loan portfolio risk using credit score segmentation, default probability, and exposure analysis.
+## Overview
 
-## Tools Used
-- Power BI
-- SQL
-- Excel
+This repository showcases end-to-end Credit Risk Analytics projects, covering both:
 
-## Key Insights
-- Higher default rates in low credit score bands
-- Concentration risk identified in specific segments
-- Portfolio risk distribution visualized using dashboards
+- Portfolio-level risk analysis
+- Credit risk modelling techniques
 
-## Files Included
-- Power BI Dashboard
-- Dataset (from Excel)
-- SQL Queries
-- Screenshots
+The projects demonstrate practical applications of financial risk concepts such as Probability of Default (PD), Loss Given Default (LGD), and Expected Loss (EL) using real-world style datasets.
 
-## Dashboard Preview
-This dashboard provides insights into credit score analysis,trend and distribution.
-![Loan Analysis](loan_analysis.png)
 
-This dashboard shows that 
-- high risk segment results in highest default rates.
-- low credit score results in higher defaults.
-- medium risk segment has the highest exposure.
-![Risk Segementation](Risk_Segmentation.png)
+## Projects Included
 
-## Learnings
-- Risk segmentation techniques
-- Data visualization for decision-making
-- Portfolio risk interpretation
+1. Credit Risk Loan Portfolio Analysis
+
+- Analyzed loan portfolio performance and risk distribution
+- Built interactive Power BI dashboard
+- Performed risk segmentation using credit score bands
+- Identified key drivers of default risk
+
+Folder: `credit-risk-loan-portfolio/`
+
+
+2. Credit Risk Modelling
+
+- Implemented Expected Loss framework (PD × LGD × EAD)
+- Built risk model to quantify potential losses
+- Developed dashboard for monitoring risk metrics
+- Performed income and credit-based risk analysis
+
+Folder: `credit-risk-modelling/`
+
+
+## Tools & Technologies
+
+- Excel = Data cleaning & preprocessing
+- SQL = Data extraction & transformation
+- Power BI = Dashboard & visualization
+
+
+## Key Skills Demonstrated
+
+- Credit Risk Analysis
+- Risk Segmentation
+- Data Visualization
+- Business Insights Generation
+
+
+## Conclusion
+
+This portfolio demonstrates strong foundational knowledge in credit risk analytics and modelling, aligned with industry practices in banking and financial services.
+
+
