@@ -21,9 +21,9 @@ The model helps estimate Expected Loss (EL) and supports better decision-making 
 
 1. Data Preparation
 
-- Cleaned and structured dataset using Excel
-- Handled missing values and inconsistencies
-- Created derived fields like income bands and credit score segments
+- Cleaned and structured dataset using Excel.
+- Handled missing values and inconsistencies.
+- Created derived fields like income bands and credit score segments.
 
 
 2. Risk Modelling Approach
